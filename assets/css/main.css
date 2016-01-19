@@ -104,7 +104,7 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-	color: #222222;
+	color: #669999;
 }
 
 .navbar-brand {
@@ -238,5 +238,5 @@ bt {
 
 .glyphicon {
 	font-size: 40px;
-	color: #1abc9c;
+	color: #003333;
 }
